@@ -7,7 +7,7 @@ Welcome to my JavaScript library! This project showcases my custom-built library
 There are over 70 functions some of them are:
 ### Euclidean Algorithms
 - **myEuclideanAlgorithm**: An algorithm for finding the greatest common divisor (GCD) of two numbers.
-- 
+
 ### Array Functions
 
 - **`myMap`**: A custom implementation of the `map` function for arrays.
